@@ -100,7 +100,8 @@ p {
   border-radius: 70px;
   display: block;
   margin: auto;
-  max-width: 50%;
+  height: 400px;
+  max-width: 100%;
   padding: 30px 30px;
 }
 
